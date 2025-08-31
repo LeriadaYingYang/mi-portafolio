@@ -1,7 +1,7 @@
 ¡Hola! Este es mi primer proyecto usando Git y GitHub. 
 # Descripción 
 Un portafolio web personal creado durante mi aprendizaje de control de versiones con Git. 
-## Tecnologías utilizadas - PYTHOM
+## Codigo Usados - PYTHOM
 ### Autor 
 Daniel Jara - Estudiante de Ingenieria de sistemas
 #### Fecha 
